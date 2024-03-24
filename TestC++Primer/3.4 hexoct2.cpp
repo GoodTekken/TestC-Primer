@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int main_34()
 {
 	using namespace std;
 	int chest = 42;

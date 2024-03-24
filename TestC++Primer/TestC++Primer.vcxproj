@@ -137,6 +137,8 @@
     <ClCompile Include="3.2 exceed.cpp" />
     <ClCompile Include="3.3 hexoct1.cpp" />
     <ClCompile Include="3.4 hexoct2.cpp" />
+    <ClCompile Include="3.5 chartype.cpp" />
+    <ClCompile Include="3.6 morechar.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
