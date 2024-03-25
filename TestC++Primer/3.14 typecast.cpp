@@ -1,5 +1,5 @@
 #include <iostream>
-int main()
+int main_314()
 {
 	using namespace std;
 	int auks, bats, coots;

@@ -147,6 +147,17 @@
     <ClCompile Include="3.7 bondini.cpp" />
     <ClCompile Include="3.8 floatnum.cpp" />
     <ClCompile Include="3.9 fltadd.cpp" />
+    <ClCompile Include="4.1 arrayone.cpp" />
+    <ClCompile Include="4.10 strtype4.cpp" />
+    <ClCompile Include="4.11 structur.cpp" />
+    <ClCompile Include="4.2 strings.cpp" />
+    <ClCompile Include="4.3 instr1.cpp" />
+    <ClCompile Include="4.4 instr2.cpp" />
+    <ClCompile Include="4.5 instr3.cpp" />
+    <ClCompile Include="4.6 numstr.cpp" />
+    <ClCompile Include="4.7 strtype1.cpp" />
+    <ClCompile Include="4.8 strtype2.cpp" />
+    <ClCompile Include="4.9 strtype3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
