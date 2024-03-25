@@ -1,5 +1,5 @@
 #include <iostream>
-int main()
+int main_36()
 {
 	using namespace std;
 	char ch = 'M';
