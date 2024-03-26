@@ -6,7 +6,7 @@ struct inflatable
 	double price;
 };
 
-int main()
+int main_411()
 {
 	using namespace std;
 	inflatable guest = {
