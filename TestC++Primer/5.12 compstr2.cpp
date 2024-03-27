@@ -1,11 +1,11 @@
 #include <iostream>
-#include <cstring>
+#include <string>
 
-int main_511()
+int main_512()
 {
 	using namespace std;
-	char word[5] = "?ate";
-	for (char ch = 'a'; strcmp(word, "mate"); ch++)
+	string word = "?ate";
+	for (char ch = 'a'; word != "mate"; ch++)
 	{
 		cout << word << endl;
 		word[0] = ch;
