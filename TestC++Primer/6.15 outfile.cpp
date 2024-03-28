@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 
-int main()
+int main_615()
 {
 	using namespace std;
 	char automobile[50];
