@@ -16,7 +16,7 @@ struct rect
 void rect_to_polar(const rect* pxy, polar* pda);
 void show_polar(const polar* pda);
 
-int main()
+int main_713()
 {
 	using namespace std;
 	rect rplace;

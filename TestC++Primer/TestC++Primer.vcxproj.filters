@@ -294,5 +294,17 @@
     <ClCompile Include="7.13 strctptr.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="7.14 topfive.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.15 arrobj.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.16 recur.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.17 ruler.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
